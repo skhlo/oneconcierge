@@ -1,0 +1,6 @@
+/one-concierge-seoul-standalone.html
+/dist/
+.env
+.DS_Store
+/wp-content/
+/scripts/
